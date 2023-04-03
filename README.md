@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img alt="Countdown Timer Layout" title="Countdown Timer" src="./layout.png" width="50%" />
+</h1>
+---
+
 ## 💻 Project
 ---
 This is a simple Countdown Timer, set to January 1st of 2024 and its job is countdown till this date or to any other date you want to, because you can change the countdown date in the scripts.js file.
