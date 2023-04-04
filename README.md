@@ -33,10 +33,10 @@ A code editor like [VSCode](https://code.visualstudio.com/) and, if you are usin
 
 ```bash
 # Clone this repository
-$ git clone <https://github.com/Arthur-Ferreira/>
+$ git clone <https://github.com/Arthur-Ferreira/countdown_timer>
 
 # Access the project folder
-$ cd 
+$ cd countdown_timer
 
 # If you're using the Live Server extension
 # Right click in the "index.html" file and click in "Open With Live Server"
